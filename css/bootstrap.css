@@ -11870,9 +11870,9 @@ button.bg-gray-4:focus {
   text-transform: lowercase !important;
 }
 
-.text-uppercase {
-  text-transform: uppercase !important;
-}
+/* .text-uppercase {
+  text-transform: uppercase;
+} */
 
 .text-capitalize {
   text-transform: capitalize !important;
