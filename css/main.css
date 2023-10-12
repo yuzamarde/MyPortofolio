@@ -9523,7 +9523,7 @@ p {
 }
 
 .main-menu li {
-  text-transform: lowercase;
+  /* text-transform: lowercase; */
 }
 
 .main-menu > li > .nav-link {
@@ -10349,6 +10349,8 @@ ul {
 
 .isotope-item {
   transition: .4s;
+  display: flex;
+  justify-content: center;
 }
 
 @media (min-width: 576px) {
