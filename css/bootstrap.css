@@ -8423,6 +8423,7 @@ button.bg-gray-4:focus {
 
 .rounded-pill {
   border-radius: 50rem !important;
+  width: 300px;
 }
 
 .rounded-0 {
@@ -8449,6 +8450,7 @@ button.bg-gray-4:focus {
 
 .d-block {
   display: block !important;
+  width: 100%;
 }
 
 .d-table {
