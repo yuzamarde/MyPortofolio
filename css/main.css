@@ -10294,6 +10294,8 @@ ul {
 
 .portfolio-card-masonry {
   position: relative;
+  display: flex;
+  justify-content: center;
 }
 
 .portfolio-card-masonry:hover .text-block {
@@ -10304,8 +10306,7 @@ ul {
 .portfolio-card-masonry .text-block {
   position: absolute;
   bottom: 0px;
-  left: 20px;
-  right: 20px;
+  width: 90%;
   opacity: 0;
   transition: .4s;
 }
